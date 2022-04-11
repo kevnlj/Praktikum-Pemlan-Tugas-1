@@ -6,23 +6,23 @@
 -  :school:<b>Kelas : TI - A</b>
 <hr>
 
-## Tugas Praktikum 1
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Tugas Praktikum 1
 📁[Selde](https://github.com/kevnlj/Ujian-Tengah-Praktikum---Berbasis-Kinerja/blob/main/PraktikumPemlan1/Selde.java)
 <br>
 📁[Surat Kaisar](https://github.com/kevnlj/Ujian-Tengah-Praktikum---Berbasis-Kinerja/blob/main/PraktikumPemlan1/SuratKaisar.java)
 <hr>
 
-## Tugas Praktikum 2
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Tugas Praktikum 2
 📁[Menghitung Luas](https://github.com/kevnlj/Ujian-Tengah-Praktikum---Berbasis-Kinerja/blob/main/PraktikumPemlan2/MenghitungLuas.java)
 <hr>
 
-## Tugas Praktikum 3
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Tugas Praktikum 3
 📁[Main](https://github.com/kevnlj/Ujian-Tengah-Praktikum---Berbasis-Kinerja/blob/main/PraktikumPemlan3/Main.java)
 <br>
 📁[Baju](https://github.com/kevnlj/Ujian-Tengah-Praktikum---Berbasis-Kinerja/blob/main/PraktikumPemlan3/Baju.java)
 <hr>
 
-## Tugas Praktikum 4
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Tugas Praktikum 4
 📁[Main](https://github.com/kevnlj/Ujian-Tengah-Praktikum---Berbasis-Kinerja/blob/main/PraktikumPemlan4/Main.java)
 <br>
 📁[Merchant](https://github.com/kevnlj/Ujian-Tengah-Praktikum---Berbasis-Kinerja/blob/main/PraktikumPemlan4/Merchant.java)
