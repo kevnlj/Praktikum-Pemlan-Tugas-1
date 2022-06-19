@@ -36,3 +36,8 @@
 [📝 Data Merchant](https://github.com/kevnlj/Ujian-Tengah-Praktikum---Berbasis-Kinerja/blob/main/PraktikumPemlan4/DataMerchant.java)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> 📁 Tugas Praktikum 5
+[📝 Praktikum Pemlan 5](https://github.com/kevnlj/Ujian-Praktikum---Berbasis-Kinerja/tree/main/PraktikumPemlan5)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
